@@ -40,26 +40,32 @@ Their Marketing team is responsible for increasing brand awareness, market share
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/d1e88a38-0f81-4a8a-bca4-b236f621f0f4)
 
 - Consumer Preference
+
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/fcc41cd3-a156-42bf-b0bd-e622c2e4b08d)
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/0c177e70-384a-4242-b849-7ec27a2c68cf)
 
 - Competition Analysis
+
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/1bf24615-a89f-4c17-9658-17c7c30db607)
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/05d4a437-7769-4682-88bf-7305b9fda69c)
 
 - Marketing Channels and Brand Awareness
+
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/a646d52d-65c5-4fba-bf90-0b166a0e8a12)
 
 - Brand Penetration
+
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/3da8d8de-efd5-43e8-84c7-5e560ef02324)
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/9a03fb7f-30b5-4ed2-beb1-0341a20415ad)
 
 - Purchase Behavior
+
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/e955d116-2404-4c70-b265-4f512ec8e11a)
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/69a5ee46-37f7-4c1c-9113-4eda227d92a2)
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/a1a85299-4ac2-4595-ab06-3c4e49190c2c)
 
 - Product Development
+
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/8e86f1c2-3444-459b-aff2-78d2928451bd)
 
 ## Recommendations For CodeX
