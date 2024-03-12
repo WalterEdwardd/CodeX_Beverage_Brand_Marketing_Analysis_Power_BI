@@ -34,6 +34,7 @@ Their Marketing team is responsible for increasing brand awareness, market share
 ## Insights and Key Findings
 
 - Demographic Insights
+
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/212eda13-65ba-418d-a15a-e59ea27fa4f4)
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/5c77dea8-886b-43c9-a794-01e1618d0ed0)
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/d1e88a38-0f81-4a8a-bca4-b236f621f0f4)
