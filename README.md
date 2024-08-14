@@ -38,55 +38,50 @@ Details here: [Metadata](Resources/Metadata.txt)
 ### 1. Dashboard
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/5ffacc05-00c5-4be6-aeca-3f7e019f0ebd)
 
-
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/6fb31a60-403f-42c9-a2c0-6c901edc547a)
-
 
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/9f79a3c4-a8bd-429c-a2bb-89810cd25fbe)
 
-
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/cf499689-a184-4ec4-a66a-b6134c4a9596)
 
-
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/6c11880e-6d9c-4da0-81f5-f80d3785420c)
-
 
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/02ecad65-9efb-4a11-83bc-7849ebad5239)
 
 ### 2. Insights and Key Findings
 #### a. Demographic Insights
-
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/212eda13-65ba-418d-a15a-e59ea27fa4f4)
+
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/5c77dea8-886b-43c9-a794-01e1618d0ed0)
+
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/d1e88a38-0f81-4a8a-bca4-b236f621f0f4)
 
 #### b. Consumer Preference
-
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/fcc41cd3-a156-42bf-b0bd-e622c2e4b08d)
+
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/0c177e70-384a-4242-b849-7ec27a2c68cf)
 
 #### c. Competition Analysis
-
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/1bf24615-a89f-4c17-9658-17c7c30db607)
+
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/05d4a437-7769-4682-88bf-7305b9fda69c)
 
 #### d. Marketing Channels and Brand Awareness
-
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/a646d52d-65c5-4fba-bf90-0b166a0e8a12)
 
 #### e. Brand Penetration
-
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/3da8d8de-efd5-43e8-84c7-5e560ef02324)
+
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/9a03fb7f-30b5-4ed2-beb1-0341a20415ad)
 
 #### f. Purchase Behavior
-
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/e955d116-2404-4c70-b265-4f512ec8e11a)
+
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/69a5ee46-37f7-4c1c-9113-4eda227d92a2)
+
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/a1a85299-4ac2-4595-ab06-3c4e49190c2c)
 
 #### g. Product Development
-
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/8e86f1c2-3444-459b-aff2-78d2928451bd)
 
 ### 3. Recommendations for CodeX
@@ -109,12 +104,8 @@ Details here: [Metadata](Resources/Metadata.txt)
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/6cee8be9-eb8d-4ad2-b157-0cee257ec53a)
 
 ## VI. Contributing
-Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
+Contributions are welcome! Please send me an email for any suggestions or improvements.
+Email:[nhudaitran1510.email@gmail.com](mailto:nhudaitran1510@gmail.com)
 
 ## VII. Author
 Created by [Nhu Dai Tran](https://github.com/WalterEdwardd)
