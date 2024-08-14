@@ -22,14 +22,24 @@ The main objectives of this case study are as follows:
 This data is provided by CodeX and used according to the rules provided on the Codebasics Resume Project Challenge page for exploratory analysis. There is no personally identifiable information (PII) in this dataset.
 
 ### 4. Table of Contents
-describe
+- Create the survey Questions and Response Options
+- Build a sound data model
+- Create Primary Sections and make the Dashboard:
+  - Demographic Insights
+  - Consumer Preferences
+  - Competition Analysis
+  - Marketing Channels and Brand Awareness
+  - Brand Penetration
+  - Purchase Behavior
+  - Product Development
+- Recommendations for CodeX
 
 ## II. Data
 This data has been provided by the CodeX and used according to the rules provided on the Codebasics Resume Project Challenge page for exploratory analysis. Data is provided in 3 CSV files:
-1. dim_respondents
-2. dim_cities
-3. fact_survey_responses
-Details here: [Metadata](Resources/Metadata.txt)
+1. [dim_respondents](Resources/dim_repondents.csv)
+2. [dim_cities](Resources/dim_cities.csv)
+3. [fact_survey_responses](Resources/fact_survey_responses.csv)
+Details here: [Metadata Description](Resources/Metadata.txt)
 
 ## III. Data Model
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/ecdb7955-51a2-4bb9-a030-db5a52f3f17d)
@@ -49,39 +59,39 @@ Details here: [Metadata](Resources/Metadata.txt)
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/02ecad65-9efb-4a11-83bc-7849ebad5239)
 
 ### 2. Insights and Key Findings
-#### a. Demographic Insights
+#### 2.1. Demographic Insights
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/212eda13-65ba-418d-a15a-e59ea27fa4f4)
 
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/5c77dea8-886b-43c9-a794-01e1618d0ed0)
 
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/d1e88a38-0f81-4a8a-bca4-b236f621f0f4)
 
-#### b. Consumer Preference
+#### 2.2. Consumer Preference
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/fcc41cd3-a156-42bf-b0bd-e622c2e4b08d)
 
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/0c177e70-384a-4242-b849-7ec27a2c68cf)
 
-#### c. Competition Analysis
+#### 2.3. Competition Analysis
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/1bf24615-a89f-4c17-9658-17c7c30db607)
 
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/05d4a437-7769-4682-88bf-7305b9fda69c)
 
-#### d. Marketing Channels and Brand Awareness
+#### 2.4. Marketing Channels and Brand Awareness
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/a646d52d-65c5-4fba-bf90-0b166a0e8a12)
 
-#### e. Brand Penetration
+#### 2.5. Brand Penetration
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/3da8d8de-efd5-43e8-84c7-5e560ef02324)
 
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/9a03fb7f-30b5-4ed2-beb1-0341a20415ad)
 
-#### f. Purchase Behavior
+#### 2.6. Purchase Behavior
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/e955d116-2404-4c70-b265-4f512ec8e11a)
 
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/69a5ee46-37f7-4c1c-9113-4eda227d92a2)
 
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/a1a85299-4ac2-4595-ab06-3c4e49190c2c)
 
-#### g. Product Development
+#### 2.7. Product Development
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/8e86f1c2-3444-459b-aff2-78d2928451bd)
 
 ### 3. Recommendations for CodeX
@@ -105,7 +115,7 @@ Details here: [Metadata](Resources/Metadata.txt)
 
 ## VI. Contributing
 Contributions are welcome! Please send me an email for any suggestions or improvements.
-Email:[nhudaitran1510.email@gmail.com](mailto:nhudaitran1510@gmail.com)
+Email:[nhudaitran1510@gmail.com](mailto:nhudaitran1510@gmail.com)
 
 ## VII. Author
 Created by [Nhu Dai Tran](https://github.com/WalterEdwardd)
