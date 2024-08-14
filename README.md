@@ -121,6 +121,7 @@ Details here: [Metadata Description](Resources/Metadata.txt)
 
 ## VI. Contributing
 Contributions are welcome! Please send me an email for any suggestions or improvements.
+
 Email:[nhudaitran1510@gmail.com](mailto:nhudaitran1510@gmail.com)
 
 ## VII. Author
