@@ -14,7 +14,7 @@ Their Marketing team is responsible for increasing brand awareness, market share
 ### 2. Goals of the Study
 The main objectives of this case study are as follows:
 1. To apply data preprocessing and preparation techniques in order to obtain clean data (EDA)
-2. To build a sound data model to support analytics and reporting.
+2. To build a suitable model to support analytics and reporting.
 3. To improve and enhance report and dashboard design skills to suit the needs of end users, helping them easily track and analyze data.
 4. To develop deeper data analysis capabilities, helping yourself detect trends, patterns and relationships in data.
 
@@ -22,9 +22,9 @@ The main objectives of this case study are as follows:
 This data is provided by CodeX and used according to the rules provided on the Codebasics Resume Project Challenge page for exploratory analysis. There is no personally identifiable information (PII) in this dataset.
 
 ### 4. Table of Contents
-- Create the survey Questions and Response Options
-- Build a sound data model
-- Create Primary Sections and make the Dashboard:
+- The Survey Questions and Response Options
+- The Suitable Model
+- Dashboard:
   - Demographic Insights
   - Consumer Preferences
   - Competition Analysis
@@ -35,11 +35,17 @@ This data is provided by CodeX and used according to the rules provided on the C
 - Recommendations for CodeX
 
 ## II. Data
-This data has been provided by the CodeX and used according to the rules provided on the Codebasics Resume Project Challenge page for exploratory analysis. Data is provided in 3 CSV files:
+This data has been provided by the CodeX and used according to the rules provided on the Codebasics Resume Project Challenge page for exploratory analysis.
+- Data is provided in 3 CSV files:
 1. [dim_respondents](Resources/dim_repondents.csv)
 2. [dim_cities](Resources/dim_cities.csv)
 3. [fact_survey_responses](Resources/fact_survey_responses.csv)
+
 Details here: [Metadata Description](Resources/Metadata.txt)
+
+- Other:
+1. [Survey_Questions_and_Response_Options](Resources/Survey_Questions_and_Response_Options.pdf)
+2. [Primary_Secondary_Insights](Resources/Primary_Secondary_Insights.pdf)
 
 ## III. Data Model
 ![image](https://github.com/WalterEdwardd/CodeX_Beverage_Brand_Marketing_Analysis_Power_BI/assets/128374617/ecdb7955-51a2-4bb9-a030-db5a52f3f17d)
